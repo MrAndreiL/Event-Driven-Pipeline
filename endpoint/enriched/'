@@ -1,0 +1,19 @@
+from google.cloud import pubsub_v1
+import json
+import base64
+
+publisher = pubsub_v1.PublisherClient()
+bill = 0.75
+topic_path = "projects/event-driven-pipeline/topics/enriched"
+
+
+def read_write_pubsub(event):
+    message = base64.b64decode(event['data']).decode('utf-8')
+
+    message = json.loads(message)
+
+    message['bill'] = bill * message['watts']
+
+    publisher_future = publisher.publish(topic_path,
+                                         str(message).encode('utf-8'))
+    print(f'published message id {publisher_future.result()}')

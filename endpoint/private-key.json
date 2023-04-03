@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "event-driven-pipeline",
+  "private_key_id": "7caf220433bb5c2975d5310a0026be0c87482615",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDsGCIi2GAqGs84\n86uba/hOhKQoi1FdAeeuZeJ+WSsaJ278ii/fGQhMjRT3zSZIIG/fckGi5f1D1gMf\nlKN9LcCtM4yB7TZg4Dka2fheFe45mC5bDxXZVffLlWHSO8oNZRncKnBkFgl9SDYs\n0leRqIfNDi/OJm1m2ENcap3FHuvAToL0BR5g/OOneILhmtwB6BFw75xKMhD9S1rz\nggc8UR9+2DhMxRMJEa93CNNTd9v86hNbiagVE4mjSCBsyR+rsClHbLdGvbPrgcN9\nwEXyPRAOl8ExXnSTy+qALVB4fvZNoXvc3V2pQABbg+LMsyTmr1VaAgpRc+KeXAf5\nOmSkDhMFAgMBAAECggEAAzBnQ6O7Fs6CZpFKC+EnOz5I7mBFYtV8AOvQ5aaEMcf/\nFIu0TlXq+ge81QURI4/GmxTSxKXJKEGrjKFoHPCBhgVofDfNUH0u4Ek59OFkdKQ0\n2heH0sX5wSb9KYcTuV8YfJQZLQzsJ2RSkQPtWWMWpIMwy57Swv0gWc753xgGFLSk\nJKy5IwGk3+u8spzew9MvqZmHWAzjJxekKCDht/hcnPmLIyQ81/A27tnSDHvcWSpV\nXULG0uSdLcovtSnqgyAO+m4XCe26nnyg+0EQUn7/SQ8xJZ0BhL+11B1ufTJLfojM\nvwodHKFHkK/GX42YvORLcelocz4MhP0Ro7wBxU5yGQKBgQD9P5Yk15pi5bRAQLu9\n1fyojWD9CNGOhPjf0gINXFPmjMzyMk9Jf1NPgvJYDXkurNpsSGBqcar+L0YLqkdr\nXk1+VdcOPHuoxUTTJzx9X9lM0EXPpAVEDKLZdrxlwT3KPh1OuiyPi+4EXjyoORBw\nPo7l9XYZSRKMu+b3umTIgHeknQKBgQDuqNUcdiUodvr0Ow8oYZPKZ+AwL5j8gu/e\nmrqm/owOHwoDLROKlvT+11AhZNGvZtqmr6QekwPjUhFomBr+P8X49E/nWpLbTKC3\nZw62146Ngtz7OUvZVnBmeA0LylS1i2s5sG5kx/haauzXb7aTQmWY5zpb/L2nbHHY\nauSAW+p3iQKBgQD38GAsM9XYC3I9EeN9CVrzHm+dbBvWf8M1RmNx9znBV4pzeOP9\nXiYPi3F+2boSA3NZXkbfD+hMMbZPR2fi65HNJXeGXZrn8jLe0+Q6DzQtKx+eGcR6\nCjEJ3WC38shvD/8bi9SCuYnPRv/15uB8NBMtevMj8FGz7WdElH2Fe5knVQKBgQCb\nEfp+5slYFI8VGDbOHzDfSEVkKdk24YEoW9NB5I1uM37W93gGCfYgjBiVyiNw29zg\nh6mU8COLleyX0JVhdGCXVW+BvNlFQvH+mSj3ZvJKQqiBWAZPrpmUCxc2/P2zhGZk\ncp4YP9LANU+03/J6lp7bDgteb8dvPMhwPWxBdvfPOQKBgDEGMDXsgpD3l8dTfQB9\nq3rJfYUdzX65Kqntv/tOvvUu8S3NwfGqzvfNa68HggkbbbcBBSV3h/joT+8DtNtU\n1ToGLnQGtYzejBnWJ/YXuhTKbB1aSkLzhHjyH9fnI1uVLByaPX6lqEJ1tbO68I8H\nEHgv4oLheLQAUBTGpF0JpSu2\n-----END PRIVATE KEY-----\n",
+  "client_email": "endpoint-service-account@event-driven-pipeline.iam.gserviceaccount.com",
+  "client_id": "115166603369699830906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/endpoint-service-account%40event-driven-pipeline.iam.gserviceaccount.com"
+}
